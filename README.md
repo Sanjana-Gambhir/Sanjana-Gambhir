@@ -1,0 +1,13 @@
+### Hi there 👋
+
+<!--
+**Sanjana-Gambhir/Sanjana-Gambhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m Sanjana Gambhir ...
+- 🌱 Enthusiastic Data Analyst with a passion for uncovering insights from data ...
+- 👯 Eager to contribute analytical skills and drive impactful decisions through data-driven insights ...
+- 📫 How to reach me: sanjanagambhir9@gmail.com  ...
+
+-->
